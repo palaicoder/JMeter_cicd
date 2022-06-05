@@ -1,0 +1,277 @@
+2022-06-05 19:19:50,809 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2022-06-05 19:19:50,809 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-06-05 19:19:50,825 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: Version 5.0 r1840935
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: java.version=1.8.0_331
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: os.name=Windows 11
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: os.arch=amd64
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: os.version=10.0
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: Max memory     =3747086336
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: Available Processors =8
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: Default Locale=English (United States)
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: JMeterHome=C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: user.dir  =C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin
+2022-06-05 19:19:50,826 INFO o.a.j.JMeter: PWD       =C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin
+2022-06-05 19:19:50,865 INFO o.a.j.JMeter: IP: 10.0.0.109 Name: DESKTOP-N5FU6O5 FullName: 10.0.0.109
+2022-06-05 19:19:51,076 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2022-06-05 19:19:51,091 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2022-06-05 19:19:51,091 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2022-06-05 19:19:51,154 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-06-05 19:19:51,665 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2022-06-05 19:19:51,665 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2022-06-05 19:19:52,449 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_11-7955f2dd2a25e2382cedf79eb3eff439-gui
+2022-06-05 19:19:53,776 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-06-05 19:19:53,777 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-06-05 19:19:53,777 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-06-05 19:19:53,777 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-06-05 19:19:53,777 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-06-05 19:19:53,778 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-06-05 19:19:54,020 INFO o.j.r.PluginManager: Plugins Status: [jpgc-casutg=2.10, jpgc-plugins-manager=1.7, bzm-random-csv=0.8, jmeter-core=5.0, jmeter-ftp=5.0, jmeter-http=5.0, jmeter-jdbc=5.0, jmeter-jms=5.0, jmeter-junit=5.0, jmeter-java=5.0, jmeter-ldap=5.0, jmeter-mail=5.0, jmeter-mongodb=5.0, jmeter-native=5.0, jmeter-tcp=5.0, jmeter-components=5.0]
+2022-06-05 19:20:03,721 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2022-06-05 19:20:03,723 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2022-06-05 19:20:04,144 INFO o.a.j.s.FileServer: Default base='C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin'
+2022-06-05 19:20:05,512 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-06-05 19:20:05,512 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-06-05 19:20:05,512 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-06-05 19:20:05,512 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-06-05 19:25:07,580 WARN o.a.j.p.h.p.ProxyControl: Could not read key store Keystore was tampered with, or password was incorrect; cause: Password verification failed, a new one will be created, ensure you install it in browser
+java.io.IOException: Keystore was tampered with, or password was incorrect
+	at sun.security.provider.JavaKeyStore.engineLoad(Unknown Source) ~[?:1.8.0_331]
+	at sun.security.provider.JavaKeyStore$JKS.engineLoad(Unknown Source) ~[?:1.8.0_331]
+	at sun.security.provider.KeyStoreDelegator.engineLoad(Unknown Source) ~[?:1.8.0_331]
+	at sun.security.provider.JavaKeyStore$DualFormatJKS.engineLoad(Unknown Source) ~[?:1.8.0_331]
+	at java.security.KeyStore.load(Unknown Source) ~[?:1.8.0_331]
+	at org.apache.jmeter.protocol.http.proxy.ProxyControl.getKeyStore(ProxyControl.java:1648) ~[ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.proxy.ProxyControl.initDynamicKeyStore(ProxyControl.java:1525) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.proxy.ProxyControl.initKeyStore(ProxyControl.java:1478) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.proxy.ProxyControl.startProxy(ProxyControl.java:539) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.proxy.gui.ProxyControlGui.startProxy(ProxyControlGui.java:592) [ApacheJMeter_http.jar:5.0 r1840935]
+	at org.apache.jmeter.protocol.http.proxy.gui.ProxyControlGui.actionPerformed(ProxyControlGui.java:432) [ApacheJMeter_http.jar:5.0 r1840935]
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source) [?:1.8.0_331]
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source) [?:1.8.0_331]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source) [?:1.8.0_331]
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source) [?:1.8.0_331]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source) [?:1.8.0_331]
+	at java.awt.Component.processMouseEvent(Unknown Source) [?:1.8.0_331]
+	at javax.swing.JComponent.processMouseEvent(Unknown Source) [?:1.8.0_331]
+	at java.awt.Component.processEvent(Unknown Source) [?:1.8.0_331]
+	at java.awt.Container.processEvent(Unknown Source) [?:1.8.0_331]
+	at java.awt.Component.dispatchEventImpl(Unknown Source) [?:1.8.0_331]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) [?:1.8.0_331]
+	at java.awt.Component.dispatchEvent(Unknown Source) [?:1.8.0_331]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source) [?:1.8.0_331]
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source) [?:1.8.0_331]
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source) [?:1.8.0_331]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) [?:1.8.0_331]
+	at java.awt.Window.dispatchEventImpl(Unknown Source) [?:1.8.0_331]
+	at java.awt.Component.dispatchEvent(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_331]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_331]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_331]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventQueue$4.run(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventQueue$4.run(Unknown Source) [?:1.8.0_331]
+	at java.security.AccessController.doPrivileged(Native Method) [?:1.8.0_331]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_331]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_331]
+Caused by: java.security.UnrecoverableKeyException: Password verification failed
+	... 47 more
+2022-06-05 19:25:07,580 INFO o.a.j.p.h.p.ProxyControl: Creating HTTP(S) Test Script Recorder Root CA in C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks, ensure you install certificate in your Browser for recording
+2022-06-05 19:25:10,359 INFO o.a.j.p.h.p.ProxyControl: Created keystore in C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2022-06-05 19:25:10,359 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2022-06-05 19:25:10,370 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2022-06-05 19:25:10,419 INFO o.a.j.p.h.p.Proxy: Proxy will remove the headers: If-Modified-Since,If-None-Match,Host
+2022-06-05 19:25:10,471 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-N5FU6O5
+2022-06-05 19:25:10,476 INFO o.a.j.p.h.p.ProxyControl: [3108]  Creating entry private.canadianshield.cira.ca in C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2022-06-05 19:25:10,477 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2022-06-05 19:25:10,709 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-06-05 19:25:12,623 INFO o.a.j.p.h.p.ProxyControl: [3111]  Creating entry content-signature-2.cdn.mozilla.net in C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2022-06-05 19:25:12,657 INFO o.a.j.p.h.p.Proxy: [3108]  KeyStore for SSL loaded OK and put host 'private.canadianshield.cira.ca' in map with key (private.canadianshield.cira.ca)
+2022-06-05 19:25:12,867 WARN o.a.j.p.h.p.Proxy: [3108]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:12,869 WARN o.a.j.p.h.p.Proxy: [3119]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:13,094 WARN o.a.j.p.h.p.Proxy: [3122]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:13,481 WARN o.a.j.p.h.p.Proxy: [3123]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:14,082 WARN o.a.j.p.h.p.Proxy: [3124]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:14,599 INFO o.a.j.p.h.p.ProxyControl: [3109]  Creating entry push.services.mozilla.com in C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2022-06-05 19:25:14,599 INFO o.a.j.p.h.p.Proxy: [3111]  KeyStore for SSL loaded OK and put host 'content-signature-2.cdn.mozilla.net' in map with key (content-signature-2.cdn.mozilla.net)
+2022-06-05 19:25:14,740 WARN o.a.j.p.h.p.Proxy: [3111]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:14,862 WARN o.a.j.p.h.p.Proxy: [3112]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:14,972 WARN o.a.j.p.h.p.Proxy: [3130]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:15,068 WARN o.a.j.p.h.p.Proxy: [3137]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:15,212 WARN o.a.j.p.h.p.Proxy: [3144]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:15,275 WARN o.a.j.p.h.p.Proxy: [3147]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:15,355 WARN o.a.j.p.h.p.Proxy: [3152]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:15,472 WARN o.a.j.p.h.p.Proxy: [3159]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:15,565 WARN o.a.j.p.h.p.Proxy: [3166]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:15,701 WARN o.a.j.p.h.p.Proxy: [3173]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:15,803 WARN o.a.j.p.h.p.Proxy: [3180]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:15,905 WARN o.a.j.p.h.p.Proxy: [3187]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:16,010 WARN o.a.j.p.h.p.Proxy: [3194]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:16,135 WARN o.a.j.p.h.p.Proxy: [3201]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:16,239 WARN o.a.j.p.h.p.Proxy: [3208]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:16,350 WARN o.a.j.p.h.p.Proxy: [3215]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:16,464 WARN o.a.j.p.h.p.Proxy: [3222]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:16,610 WARN o.a.j.p.h.p.Proxy: [3229]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:16,722 WARN o.a.j.p.h.p.Proxy: [3236]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:16,842 WARN o.a.j.p.h.p.Proxy: [3243]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:16,866 INFO o.a.j.p.h.p.Proxy: [3109]  KeyStore for SSL loaded OK and put host 'push.services.mozilla.com' in map with key (push.services.mozilla.com)
+2022-06-05 19:25:17,113 WARN o.a.j.p.h.p.Proxy: [3250]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:17,201 WARN o.a.j.p.h.p.Proxy: [3109]  Problem with SSL certificate for url  for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:17,220 WARN o.a.j.p.h.p.Proxy: [3253]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:17,382 WARN o.a.j.p.h.p.Proxy: [3262]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:17,398 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2022-06-05 19:25:17,493 WARN o.a.j.p.h.p.Proxy: [3269]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:40,143 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2022-06-05 19:25:40,143 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2022-06-05 19:25:40,143 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2022-06-05 19:25:40,143 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2022-06-05 19:25:40,396 WARN o.a.j.p.h.p.Proxy: [3312]  Problem with SSL certificate for url  for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:45,414 WARN o.a.j.p.h.p.Proxy: [3320]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:51,678 INFO o.a.j.p.h.p.ProxyControl: [3323]  Creating entry petstore.octoperf.com in C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2022-06-05 19:25:51,987 WARN o.a.j.p.h.p.Proxy: [3324]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:52,748 WARN o.a.j.p.h.p.Proxy: [3325]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:52,822 WARN o.a.j.p.h.p.Proxy: [3326]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:52,874 WARN o.a.j.p.h.p.Proxy: [3331]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:52,941 WARN o.a.j.p.h.p.Proxy: [3340]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:52,980 WARN o.a.j.p.h.p.Proxy: [3343]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,030 WARN o.a.j.p.h.p.Proxy: [3348]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,087 WARN o.a.j.p.h.p.Proxy: [3353]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,140 WARN o.a.j.p.h.p.Proxy: [3362]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,200 WARN o.a.j.p.h.p.Proxy: [3369]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,247 WARN o.a.j.p.h.p.Proxy: [3372]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,288 WARN o.a.j.p.h.p.Proxy: [3377]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,347 WARN o.a.j.p.h.p.Proxy: [3380]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,388 WARN o.a.j.p.h.p.Proxy: [3385]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,442 WARN o.a.j.p.h.p.Proxy: [3388]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,481 WARN o.a.j.p.h.p.Proxy: [3394]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,532 WARN o.a.j.p.h.p.Proxy: [3401]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,552 INFO o.a.j.p.h.p.Proxy: [3323]  KeyStore for SSL loaded OK and put host 'petstore.octoperf.com' in map with key (petstore.octoperf.com)
+2022-06-05 19:25:53,601 WARN o.a.j.p.h.p.Proxy: [3402]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,624 WARN o.a.j.p.h.p.Proxy: [3323]  Problem with SSL certificate for url  for 'petstore.octoperf.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,677 WARN o.a.j.p.h.p.Proxy: [3409]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:25:53,724 WARN o.a.j.p.h.p.Proxy: [3412]  Problem with SSL certificate for url  for 'content-signature-2.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:00,194 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2022-06-05 19:26:00,194 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2022-06-05 19:26:00,194 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2022-06-05 19:26:00,388 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2022-06-05 19:26:00,388 INFO o.a.j.u.SSLManager: KeyStore created OK
+2022-06-05 19:26:00,388 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2022-06-05 19:26:00,891 WARN o.a.j.p.h.p.Proxy: [3448]  Problem with SSL certificate for url  for 'petstore.octoperf.com'? Ensure browser is set to accept the JMeter proxy cert: Remote host terminated the handshake
+2022-06-05 19:26:00,897 WARN o.a.j.p.h.p.Proxy: [3445]  Problem with SSL certificate for url  for 'petstore.octoperf.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: socket write error
+2022-06-05 19:26:00,897 WARN o.a.j.p.h.p.Proxy: [3446]  Problem with SSL certificate for url  for 'petstore.octoperf.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: socket write error
+2022-06-05 19:26:00,904 WARN o.a.j.p.h.p.Proxy: [3447]  Problem with SSL certificate for url  for 'petstore.octoperf.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: socket write error
+2022-06-05 19:26:17,492 WARN o.a.j.p.h.p.Proxy: [3471]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:20,124 WARN o.a.j.p.h.p.Proxy: [3476]  Problem with SSL certificate for url  for 'petstore.octoperf.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed
+2022-06-05 19:26:20,512 WARN o.a.j.p.h.p.Proxy: [3479]  Problem with SSL certificate for url  for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:24,103 WARN o.a.j.p.h.p.Proxy: [3486]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:28,047 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2022-06-05 19:26:54,496 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2022-06-05 19:26:54,496 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2022-06-05 19:26:54,496 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2022-06-05 19:26:54,496 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2022-06-05 19:26:54,571 INFO o.a.j.p.h.p.ProxyControl: [3502]  Creating entry img-getpocket.cdn.mozilla.net in C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2022-06-05 19:26:56,428 INFO o.a.j.p.h.p.Proxy: [3502]  KeyStore for SSL loaded OK and put host 'img-getpocket.cdn.mozilla.net' in map with key (img-getpocket.cdn.mozilla.net)
+2022-06-05 19:26:56,608 WARN o.a.j.p.h.p.Proxy: [3504]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:56,608 WARN o.a.j.p.h.p.Proxy: [3502]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:56,608 WARN o.a.j.p.h.p.Proxy: [3501]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:56,608 WARN o.a.j.p.h.p.Proxy: [3508]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:56,608 WARN o.a.j.p.h.p.Proxy: [3503]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:56,778 WARN o.a.j.p.h.p.Proxy: [3505]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:56,809 WARN o.a.j.p.h.p.Proxy: [3507]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:56,818 WARN o.a.j.p.h.p.Proxy: [3506]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:56,834 WARN o.a.j.p.h.p.Proxy: [3511]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:56,834 WARN o.a.j.p.h.p.Proxy: [3512]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:56,956 WARN o.a.j.p.h.p.Proxy: [3510]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:57,016 WARN o.a.j.p.h.p.Proxy: [3519]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:57,049 WARN o.a.j.p.h.p.Proxy: [3521]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:57,049 WARN o.a.j.p.h.p.Proxy: [3522]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:57,064 WARN o.a.j.p.h.p.Proxy: [3523]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:57,105 WARN o.a.j.p.h.p.Proxy: [3524]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:57,123 WARN o.a.j.p.h.p.Proxy: [3530]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:26:57,149 WARN o.a.j.p.h.p.Proxy: [3532]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:01,163 INFO o.a.j.p.h.p.ProxyControl: [3572]  Creating entry incoming.telemetry.mozilla.org in C:\Learning\Performance testing\Jmeter\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2022-06-05 19:27:03,282 INFO o.a.j.p.h.p.Proxy: [3572]  KeyStore for SSL loaded OK and put host 'incoming.telemetry.mozilla.org' in map with key (incoming.telemetry.mozilla.org)
+2022-06-05 19:27:03,387 WARN o.a.j.p.h.p.Proxy: [3572]  Problem with SSL certificate for url  for 'incoming.telemetry.mozilla.org'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:03,387 WARN o.a.j.p.h.p.Proxy: [3573]  Problem with SSL certificate for url  for 'incoming.telemetry.mozilla.org'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:09,478 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2022-06-05 19:27:32,192 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2022-06-05 19:27:32,192 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2022-06-05 19:27:32,192 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2022-06-05 19:27:32,192 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2022-06-05 19:27:32,265 WARN o.a.j.p.h.p.Proxy: [3621]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,377 WARN o.a.j.p.h.p.Proxy: [3628]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,581 WARN o.a.j.p.h.p.Proxy: [3622]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,581 WARN o.a.j.p.h.p.Proxy: [3624]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,581 WARN o.a.j.p.h.p.Proxy: [3623]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,581 WARN o.a.j.p.h.p.Proxy: [3630]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,747 WARN o.a.j.p.h.p.Proxy: [3627]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,747 WARN o.a.j.p.h.p.Proxy: [3637]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,763 WARN o.a.j.p.h.p.Proxy: [3638]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,768 WARN o.a.j.p.h.p.Proxy: [3640]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,892 WARN o.a.j.p.h.p.Proxy: [3646]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,892 WARN o.a.j.p.h.p.Proxy: [3647]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:32,900 WARN o.a.j.p.h.p.Proxy: [3649]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:33,156 WARN o.a.j.p.h.p.Proxy: [3660]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:33,236 WARN o.a.j.p.h.p.Proxy: [3663]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:33,308 WARN o.a.j.p.h.p.Proxy: [3670]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:34,164 WARN o.a.j.p.h.p.Proxy: [3681]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:34,240 WARN o.a.j.p.h.p.Proxy: [3684]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:34,320 WARN o.a.j.p.h.p.Proxy: [3691]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:40,090 WARN o.a.j.p.h.p.Proxy: [3706]  Problem with SSL certificate for url  for 'incoming.telemetry.mozilla.org'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:40,090 WARN o.a.j.p.h.p.Proxy: [3705]  Problem with SSL certificate for url  for 'incoming.telemetry.mozilla.org'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:40,590 WARN o.a.j.p.h.p.Proxy: [3719]  Problem with SSL certificate for url  for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:47,781 WARN o.a.j.p.h.p.Proxy: [3733]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:47,781 WARN o.a.j.p.h.p.Proxy: [3734]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:47,789 WARN o.a.j.p.h.p.Proxy: [3732]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:47,925 WARN o.a.j.p.h.p.Proxy: [3738]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:47,925 WARN o.a.j.p.h.p.Proxy: [3736]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:47,932 WARN o.a.j.p.h.p.Proxy: [3739]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:48,050 WARN o.a.j.p.h.p.Proxy: [3745]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:48,061 WARN o.a.j.p.h.p.Proxy: [3746]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:48,067 WARN o.a.j.p.h.p.Proxy: [3748]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:27:50,221 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2022-06-05 19:28:07,176 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2022-06-05 19:28:07,176 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2022-06-05 19:28:07,176 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2022-06-05 19:28:07,176 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2022-06-05 19:28:07,767 WARN o.a.j.p.h.p.Proxy: [3821]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:28:07,777 WARN o.a.j.p.h.p.Proxy: [3823]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:28:07,792 WARN o.a.j.p.h.p.Proxy: [3824]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:28:08,060 WARN o.a.j.p.h.p.Proxy: [3822]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:28:08,070 WARN o.a.j.p.h.p.Proxy: [3826]  Problem with SSL certificate for url  for 'img-getpocket.cdn.mozilla.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:28:14,227 WARN o.a.j.p.h.p.Proxy: [3840]  Problem with SSL certificate for url  for 'incoming.telemetry.mozilla.org'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:28:14,234 WARN o.a.j.p.h.p.Proxy: [3841]  Problem with SSL certificate for url  for 'incoming.telemetry.mozilla.org'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:28:29,727 WARN o.a.j.p.h.p.Proxy: [3865]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:28:36,372 WARN o.a.j.p.h.p.Proxy: [3870]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:28:45,106 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2022-06-05 19:28:55,997 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2022-06-05 19:28:55,997 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2022-06-05 19:28:55,997 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2022-06-05 19:28:55,997 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2022-06-05 19:29:14,233 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2022-06-05 19:30:43,126 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2022-06-05 19:30:43,126 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2022-06-05 19:30:43,126 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2022-06-05 19:30:43,126 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2022-06-05 19:30:43,221 WARN o.a.j.p.h.p.Proxy: [3997]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:30:48,634 WARN o.a.j.p.h.p.Proxy: [3998]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:30:58,629 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2022-06-05 19:31:32,880 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2022-06-05 19:31:32,880 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2022-06-05 19:31:32,880 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2022-06-05 19:31:32,880 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2022-06-05 19:31:47,287 WARN o.a.j.p.h.p.Proxy: [4040]  Problem with SSL certificate for url  for 'private.canadianshield.cira.ca'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca
+2022-06-05 19:31:48,244 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
